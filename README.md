@@ -45,3 +45,74 @@ public class main {
 	} 
 
 } 
+
+
+
+package my_first_java_Project;
+
+public class main {
+
+	public static void main(String[] args) {
+		double x=3.14;
+		double y=-10;
+		double z=Math.min(x, y);
+		System.out.println(z);
+	} 
+
+} 
+
+
+package my_first_java_Project;
+
+public class main {
+
+	public static void main(String[] args) {
+		double x=3.14;
+		double y=-10;
+		double z=Math.max(x, y); //3.14
+		System.out.println(z);
+	} 
+
+} 
+
+
+package my_first_java_Project;
+
+public class main {
+
+	public static void main(String[] args) {
+		double x=3.14;
+		double y=-10;
+		double z=Math.sqrt(x);//1.17
+		System.out.println(z);
+	} 
+
+} 
+
+
+package my_first_java_Project;
+
+public class main {
+
+	public static void main(String[] args) {
+		double x=3.14;
+		double y=-10;
+		double z=Math.ceil(x);// 4
+		System.out.println(z);
+	} 
+
+} 
+
+
+package my_first_java_Project;
+
+public class main {
+
+	public static void main(String[] args) {
+		double x=3.14;
+		double y=-10;
+		double z=Math.floor(x);//3
+		System.out.println(z);
+	} 
+
+} 
